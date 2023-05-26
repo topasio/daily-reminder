@@ -1,5 +1,5 @@
 # daily-reminder
-A few scripts to help you integrate something you have read into your life.
+A few scripts to help you integrate something you have read into your life. For me, this is a great way to build new habits.
 
 # Purpose
 A good friend once told me: We don't need to read so much new stuff all the time, it would help to just remember what you've already learned. Try to integrate it into your life!
